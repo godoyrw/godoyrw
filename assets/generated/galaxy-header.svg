@@ -384,10 +384,10 @@
     <!-- Bright center dot -->
     <circle cx="425" cy="155" r="3" fill="#00D4FF" filter="url(#core-bright-glow)" opacity="0.9"/>
     <!-- Initial -->
-    <text x="425" y="160" text-anchor="middle" fill="#00D4FF" font-size="14" font-weight="bold" font-family="monospace">G</text>
+    <text x="425" y="160" text-anchor="middle" fill="#00D4FF" font-size="14" font-weight="bold" font-family="monospace">M</text>
 
   <!-- 12. Profile text -->
-  <text x="425" y="26" text-anchor="middle" fill="#E6EDF3" font-size="20" font-weight="bold" font-family="sans-serif">Godoy</text>
-  <text x="425" y="44" text-anchor="middle" fill="#9AA4B2" font-size="12" font-family="sans-serif">CTO | Program &amp; Technology Director | PMO Executivo | Transformação Digital</text>
+  <text x="425" y="26" text-anchor="middle" fill="#E6EDF3" font-size="20" font-weight="bold" font-family="sans-serif">MEU UNIVERSO DE CÓDIGOS</text>
+  <text x="425" y="44" text-anchor="middle" fill="#9AA4B2" font-size="12" font-family="sans-serif"></text>
   <text x="425" y="268" text-anchor="middle" fill="#5B6677" font-size="11" font-family="monospace" font-style="italic">&quot;Simple systems scale. Complex systems fail quietly.&quot;</text>
 </svg>
