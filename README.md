@@ -1,5 +1,3 @@
-## Roberto Godoy
-
 <div align="center">
   <img src="./assets/generated/current/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
