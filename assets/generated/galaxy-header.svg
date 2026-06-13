@@ -388,6 +388,6 @@
 
   <!-- 12. Profile text -->
   <text x="425" y="26" text-anchor="middle" fill="#E6EDF3" font-size="20" font-weight="bold" font-family="sans-serif">Godoy</text>
-  <text x="425" y="44" text-anchor="middle" fill="#9AA4B2" font-size="12" font-family="sans-serif">CTO • Software Engineer • Systems &amp; Cloud Architecture</text>
+  <text x="425" y="44" text-anchor="middle" fill="#9AA4B2" font-size="12" font-family="sans-serif">CTO | Program &amp; Technology Director | PMO Executivo | Transformação Digital</text>
   <text x="425" y="268" text-anchor="middle" fill="#5B6677" font-size="11" font-family="monospace" font-style="italic">&quot;Simple systems scale. Complex systems fail quietly.&quot;</text>
 </svg>
