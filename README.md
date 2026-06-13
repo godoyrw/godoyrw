@@ -1,27 +1,27 @@
 ## Roberto Godoy
 
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/generated/current/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+  <img src="./assets/generated/current/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+  <img src="./assets/generated/current/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/projects-constellation-a.svg" width="850" alt="Featured Projects"/>
+  <img src="./assets/generated/current/projects-constellation-a.svg" width="850" alt="Featured Projects"/>
 </div>
 
 <div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+  <img src="./assets/generated/current/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
